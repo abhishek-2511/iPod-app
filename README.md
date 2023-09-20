@@ -10,6 +10,6 @@ The iPod App using React is a music player application that replicates the class
 
 - **Playback Controls**: Play, pause, forward, backward to loop over songs.
 - **Gesture Controls**: Enjoy intuitive gesture controls just like the real iPod, including swipe, tap, and scroll actions.
-3.**Retro Design**: Enjoy the nostalgia of the classic iPod interface.
-4.**Theme Customization**: Choose from a variety of iPod case colors to personalize your app's appearance.
-5.**Wallpaper Selection**: Set your favorite wallpaper to create a unique visual style for your iPod.
+- **Retro Design**: Enjoy the nostalgia of the classic iPod interface.
+- **Theme Customization**: Choose from a variety of iPod case colors to personalize your app's appearance.
+- **Wallpaper Selection**: Set your favorite wallpaper to create a unique visual style for your iPod.
