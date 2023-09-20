@@ -1,0 +1,42 @@
+/* Body */
+body {
+  display: flex;
+  width: 100vw;
+  height: 90vh;
+  animation: changeBg 10s linear infinite;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@keyframes changeBg {
+  0% {
+    background-color: #9c27b0;
+  }
+  20% {
+    background-color: #009688;
+  }
+  40% {
+    background-color: #2196f3;
+  }
+  50% {
+    background-color: green;
+  }
+  60% {
+    background-color: pink;
+  }
+  70% {
+    background-color: #ff5722;
+  }
+  80% {
+    background-color: yellowgreen;
+  }
+  100% {
+    background-color: #9c27b0;
+  }
+}
